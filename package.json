@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  },
+    "scripts": {
+    "compile:sass":"node-sass sass/styles-scss css/style-global.css --watch"
+  }
+}
